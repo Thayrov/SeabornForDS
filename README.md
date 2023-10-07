@@ -10,6 +10,7 @@ Bienvenidos al repositorio de mis apuntes del curso "Data Visualization: Explora
 
 - [Descripción General](#descripción-general)
 - [Clases](#clases)
+- [Instructor](#instructor)
 - [Agradecimientos](#agradecimientos)
 - [Contacto](#contacto)
 - [Licencia](#licencia)
@@ -26,11 +27,15 @@ Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprende
 4. **Clase 4: Análisis de variables numéricas y regresión**
 5. **Clase 5: Análisis de conjunto de variables**
 
-## Agradecimientos
+## Instructor
 
 - **Mauricio Loaiza**: Mauricio actualmente se desempeña como consultor de políticas de crédito y cobranza. Es formado en Negócios Internacionales con énfasis en finanzas.
     - [LinkedIn](https://www.linkedin.com/in/mauricioloaiza/)
     - [GitHub](https://github.com/mao14)
+
+## Agradecimientos
+
+Un gran agradecimiento a Mauricio Loaiza, por su excelente instrucción en este curso. También quiero agradecer a Alura Latam y Oracle Next Education (ONE) por proporcionar esta valiosa oportunidad educativa a sus AlumniONE.
 
 ## Contacto
 
