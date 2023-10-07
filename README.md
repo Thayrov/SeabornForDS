@@ -4,7 +4,7 @@
   <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
 </p>
 
-Bienvenidos al repositorio del curso "Data Visualization: Explorando con Seaborn".
+Bienvenidos al repositorio de mis apuntes del curso "Data Visualization: Explorando con Seaborn" de Alura Latam ofrecido a los graduados AlumniONE de Oracle Next Education.
 
 ## Índice
 
@@ -16,7 +16,7 @@ Bienvenidos al repositorio del curso "Data Visualization: Explorando con Seaborn
 
 ## Descripción General
 
-Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprenderí desde cómo importar datos hasta cómo utilizar Seaborn para la creación de diferentes gráficos, todo ello con la herramienta Google Colaboratory.
+Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprendeí desde cómo importar datos hasta cómo utilizar Seaborn para la creación de diferentes gráficos, todo ello con la herramienta Google Colaboratory.
 
 ## Clases
 
