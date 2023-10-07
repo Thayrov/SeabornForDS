@@ -16,7 +16,7 @@ Bienvenidos al repositorio del curso "Data Visualization: Explorando con Seaborn
 
 ## Descripción General
 
-Este repositorio contiene todos los notebooks, bases de datos y archivos necesarios para el curso. Aprenderás desde cómo importar datos hasta cómo utilizar Seaborn para la creación de diferentes gráficos, todo ello con la herramienta Google Colaboratory.
+Este repositorio contiene mi notebook con mis apuntes tomados del curso. Aprenderí desde cómo importar datos hasta cómo utilizar Seaborn para la creación de diferentes gráficos, todo ello con la herramienta Google Colaboratory.
 
 ## Clases
 
@@ -34,7 +34,7 @@ Este repositorio contiene todos los notebooks, bases de datos y archivos necesar
 
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en escribirme a mi [email](mailto:tu-email-aquí).
+Si tienes preguntas o comentarios, no dudes en escribirme a mi [email](mailto:contact@thayrov.com).
 
 ## Licencia
 
